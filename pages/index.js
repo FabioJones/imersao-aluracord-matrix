@@ -16,15 +16,15 @@ function GlobalStyle() {
       /* App Fit Height */
       html,
       body,
-      #_next {
+      #__next {
         min-height: 100vh;
         display: flex;
         flex: 1;
       }
-      #_next {
+      #__next {
         flex: 1;
       }
-      #_next > * {
+      #__next > * {
         flex: 1;
       }
     `}</style>
